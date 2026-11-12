@@ -1,0 +1,7 @@
+[
+  {"name": "資料結構作業 1：成績登記簿", "tag": "課程", "desc": "用串列、堆疊、佇列實作 GradeBook。"},
+  {"name": "Arduino 物聯網實驗", "tag": "課程", "desc": "感測器讀值並用 MQTT 傳送資料。"},
+  {"name": "Kotlin 手機 APP", "tag": "課程", "desc": "Android 基本畫面與事件處理。"},
+  {"name": "HTTP 封包分析", "tag": "課程", "desc": "分析網路封包與資料傳輸流程，了解協定與通訊行為。"},
+  {"name": "個人網頁(此頁)", "tag": "個人", "desc": "HTML5 + CSS + jQuery + Ajax。"}
+]
